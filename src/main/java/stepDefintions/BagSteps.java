@@ -1,6 +1,6 @@
 package stepDefintions;
 
-import pageObjects.BagPage;
+import pageObjects.*;
 
 public class BagSteps {
 
