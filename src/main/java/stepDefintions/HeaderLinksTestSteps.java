@@ -3,6 +3,8 @@ package stepDefintions;
 import functionLibrary.CommonFunctions;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pageObjects.*;
+
 
 public class HeaderLinksTestSteps extends CommonFunctions {
 
