@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.io.File;
 
-public class CommonFunctions {
+public class gitCommonFunctions {
 
     public static WebDriver driver;
 
