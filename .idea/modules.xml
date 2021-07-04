@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WebAutomaionPOM.iml" filepath="$PROJECT_DIR$/.idea/WebAutomaionPOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NextWebAuomtionPOM.iml" filepath="$PROJECT_DIR$/NextWebAuomtionPOM.iml" />
     </modules>
   </component>
 </project>
