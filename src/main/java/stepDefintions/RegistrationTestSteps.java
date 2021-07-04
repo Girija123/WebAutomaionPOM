@@ -3,8 +3,8 @@ package stepDefintions;
 import functionLibrary.CommonFunctions;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import pageObjects.LoginPage;
-import pageObjects.RegistrationPage;
+import pageObjects.*;
+
 
 public class RegistrationTestSteps extends CommonFunctions {
 
