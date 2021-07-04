@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NextWebAuomtionPOM" />
+        <module name="WebAutomaionPOM" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WebAutomaionPOM" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
