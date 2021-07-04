@@ -1,16 +1,11 @@
 package stepDefintions;
 
 import functionLibrary.CommonFunctions;
-import io.cucumber.java.After;
-import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.junit.Assert;
-import org.openqa.selenium.By;
-import pageObjects.HomePage;
-import pageObjects.LoginPage;
-import pageObjects.MyAccountPage;
+
+
 
 public class LoginSteps extends CommonFunctions {
 
